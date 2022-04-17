@@ -53,3 +53,7 @@ ul {
         background-color: rgb(238, 183, 229);
         font-family: 'Courier New', Courier, monospace;
     }
+
+    .graphs{
+      width: 50%;
+    }
